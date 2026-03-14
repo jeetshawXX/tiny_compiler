@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wl,--dependency-file=CMakeFiles/tiny_compiler.dir/link.d CMakeFiles/tiny_compiler.dir/src/main.cpp.o CMakeFiles/tiny_compiler.dir/src/Lexer.cpp.o CMakeFiles/tiny_compiler.dir/src/Parser.cpp.o -o tiny_compiler

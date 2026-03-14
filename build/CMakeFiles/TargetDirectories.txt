@@ -1,0 +1,3 @@
+/home/jeet/tiny-compiler/build/CMakeFiles/tiny_compiler.dir
+/home/jeet/tiny-compiler/build/CMakeFiles/edit_cache.dir
+/home/jeet/tiny-compiler/build/CMakeFiles/rebuild_cache.dir
