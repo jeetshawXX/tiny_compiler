@@ -6,5 +6,4 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra")
 
 include_directories(include)
 
-# We are using tiny_compiler now to avoid the naming conflict
 add_executable(tiny_compiler src/main.cpp src/Lexer.cpp src/Parser.cpp)
